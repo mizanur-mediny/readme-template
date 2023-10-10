@@ -89,7 +89,7 @@ html{
 - [x] Task3
 
 <!--markdown link-->
-## link(Automatic link)
+## link(Automatic/enable link)
 http://www.studywithanis.com
 ## link(Disable link)
 `http://www.studywithanis.com`
